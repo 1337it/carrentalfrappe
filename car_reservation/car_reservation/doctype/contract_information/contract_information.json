@@ -45,7 +45,7 @@
    "fieldtype": "Select",
    "in_list_view": 1,
    "label": "Type",
-   "options": "Omnium\nLeasing\nReparing",
+   "options": "Renting\nLeasing\nReparing",
    "reqd": 1
   },
   {
@@ -54,7 +54,7 @@
    "in_list_view": 1,
    "label": "Vendor",
    "options": "Supplier",
-   "reqd": 1
+   "reqd": 0
   },
   {
    "fieldname": "reference",
