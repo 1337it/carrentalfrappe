@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include car_reservation *.css
+recursive-include car_reservation *.csv
+recursive-include car_reservation *.html
+recursive-include car_reservation *.ico
+recursive-include car_reservation *.js
+recursive-include car_reservation *.json
+recursive-include car_reservation *.md
+recursive-include car_reservation *.png
+recursive-include car_reservation *.py
+recursive-include car_reservation *.svg
+recursive-include car_reservation *.txt
+recursive-exclude car_reservation *.pyc
